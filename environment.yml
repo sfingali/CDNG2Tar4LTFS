@@ -1,0 +1,9 @@
+name: cdng2tar4ltfs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyside6
+  - pip
+  - pip:
+      - typing-extensions
